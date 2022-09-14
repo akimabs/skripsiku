@@ -1,0 +1,1 @@
+ls bash/*.sh | xargs -P0 -n1 bash

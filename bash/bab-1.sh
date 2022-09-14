@@ -1,0 +1,1 @@
+cd bab-1 && pandoc -f docx -t gfm bab-1.docx -o bab-1.md
