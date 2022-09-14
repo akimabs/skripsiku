@@ -1,1 +1,1 @@
-cd cover && pandoc -f docx -t gfm cover.docx -o cover.md
+cd files/cover && pandoc -f docx -t gfm cover.docx -o cover.md
