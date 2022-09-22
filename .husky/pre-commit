@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-ls bash/*.sh | xargs -P0 -n1 bash
+# ls bash/*.sh | xargs -P0 -n1 bash
