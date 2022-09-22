@@ -128,7 +128,7 @@ dijadikan dasar pengambilan keputusan pembelian.
 **2.3 Kerangka Pemikiran**
 
 Berikut adalah gambar dari alur kerangka pemikiran yang akan diterapkan
-dalam fitur _Reimbursement_ sebagai berikut :
+dalam fitur *Reimbursement* sebagai berikut :
 
-<img src="https://github.com/akimabs/skripsiku/blob/main/assets/kerangka-pemikiran.png" style="width:3.80952in;height:8.602in"
+<img src="media/image1.png" style="width:3.80952in;height:8.602in"
 alt="Graphical user interface, text Description automatically generated" />

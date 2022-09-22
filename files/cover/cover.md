@@ -4,7 +4,7 @@ Kasus: Fitur Aplikasi Reimbursement)**
 
 PROPOSAL SKIPSI
 
-<img src="https://github.com/akimabs/skripsiku/blob/main/assets/unpam-logo.png" style="width:2.08056in;height:2.01181in" />
+<img src="media/image1.png" style="width:2.08056in;height:2.01181in" />
 
 Oleh:
 
@@ -12,7 +12,7 @@ ABDUL HAKIM
 
 NIM: 171021400238
 
-**PROGRAM STUDI TEKNIK INFORMATIKA FAKULTAS TEKNIK**
+**PROGRAM STUDI TEKNIK INFORMATIKA FAKULTAS ILMU KOMPUTER**
 
 **UNIVERSITAS PAMULANG**
 
