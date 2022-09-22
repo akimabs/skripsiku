@@ -4,7 +4,7 @@ Kasus: Fitur Aplikasi Reimbursement)**
 
 PROPOSAL SKIPSI
 
-<img src="media/image1.png" style="width:2.08056in;height:2.01181in" />
+<img src="https://github.com/akimabs/skripsiku/blob/main/assets/logo-unpam.png" style="width:2.08056in;height:2.01181in" />
 
 Oleh:
 
