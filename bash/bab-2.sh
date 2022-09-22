@@ -1,0 +1,1 @@
+cd files/bab-2 && pandoc -f docx -t gfm bab-2.docx -o bab-2.md
